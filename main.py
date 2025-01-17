@@ -117,6 +117,7 @@ TEXT_MATERIALS = [
     ("О чем надо думать на святках", "https://telegra.ph/O-chem-nado-dumat-na-svyatkah-01-06"),
     ("За несколько минут до креста Христос открыл зачем Он Родился.", "https://telegra.ph/Za-neskolko-minut-do-kresta-Hristos-otkryl-zachem-On-Rodilsya-01-09"),
     ("Рождество и Голгофа", "https://telegra.ph/Rozhdestvo-i-Golgofa-01-09"),
+    ("Суть службы в день Крещения Господня", "https://telegra.ph/Sut-sluzhby-v-den-Kreshcheniya-Gospodnya-01-17"),
 ]
 
 # Пример аудио материалов (например, ссылки на подкасты, mp3-файлы и т.д.)
