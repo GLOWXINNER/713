@@ -118,6 +118,7 @@ TEXT_MATERIALS = [
     ("За несколько минут до креста Христос открыл зачем Он Родился.", "https://telegra.ph/Za-neskolko-minut-do-kresta-Hristos-otkryl-zachem-On-Rodilsya-01-09"),
     ("Рождество и Голгофа", "https://telegra.ph/Rozhdestvo-i-Golgofa-01-09"),
     ("Суть службы в день Крещения Господня", "https://telegra.ph/Sut-sluzhby-v-den-Kreshcheniya-Gospodnya-01-17"),
+    ("Крещение Господне в наследии новомучеников", "https://telegra.ph/Kreshchenie-Gospodne-v-nasledii-novomuchenikov-01-18"),
 ]
 
 # Пример аудио материалов (например, ссылки на подкасты, mp3-файлы и т.д.)
